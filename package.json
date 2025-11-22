@@ -4,11 +4,11 @@
   "description": "",
   "homepage": "https://mjgeotina.github.io/hotel-finder-app",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  },
+  "start": "parcel index.html",
+  "build": "parcel build index.html --public-url ./",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
