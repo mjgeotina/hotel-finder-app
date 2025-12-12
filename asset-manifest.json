@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hotel-finder-app/static/css/main.0729ebbe.css",
+    "main.js": "/hotel-finder-app/static/js/main.d860c009.js",
+    "index.html": "/hotel-finder-app/index.html",
+    "main.0729ebbe.css.map": "/hotel-finder-app/static/css/main.0729ebbe.css.map",
+    "main.d860c009.js.map": "/hotel-finder-app/static/js/main.d860c009.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0729ebbe.css",
+    "static/js/main.d860c009.js"
+  ]
+}
